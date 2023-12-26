@@ -48,7 +48,7 @@ Blogpost is a Flask web application designed to provide a platform for users to 
 
 4. Run the application:
    ```bash
-   python app.py
+   python main.py
    ```
 
 ## Usage
